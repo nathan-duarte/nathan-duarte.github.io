@@ -1,2 +1,2 @@
 # nathan-duarte.github.io
-Portifólio
+It's a personal webiste that tell about me, my career and my business experience.
